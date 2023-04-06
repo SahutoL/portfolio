@@ -13,7 +13,7 @@ const Projects = () => {
                 <a href={project.gitHubLink}><i className="fa-brands fa-github"></i></a>
               </div>
             </div>
-            <h3><a href={project.siteUrl}>{project.title}</a></h3>
+            <h3><a href={project.siteUrl} target="_blank">{project.title}</a></h3>
             <p>{project.description}</p>
           </div>
         ))
