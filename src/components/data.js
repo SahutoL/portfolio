@@ -9,10 +9,18 @@ export const projectData = [
     },
     {
       id: 2,
-      title: 'Hameln API',
+      title: 'Hameln API for BackEnd',
       description:
         'This is the ranking API for "syosetu.org".',
       gitHubLink: 'https://github.com/SahutoL/hameln-api',
       siteUrl: 'https://hameln-api.onrender.com/docs/'
+    },
+    {
+      id: 3,
+      title: 'Hameln API FrontEnd',
+      description:
+        'This is the ranking API for "syosetu.org".',
+      gitHubLink: 'https://github.com/SahutoL/hameln-api',
+      siteUrl: 'https://hameln-api.stremlit.app/'
     },
   ];
