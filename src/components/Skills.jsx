@@ -15,9 +15,9 @@ const Skills = () => {
           <i className="fa-brands fa-js-square js-icon"></i>
           <p>JavaScript</p>
         </div>
-        <div className="skill-card react">
-          <i className="fa-brands fa-react react-icon"></i>
-          <p>React</p>
+        <div className="skill-card c">
+          <i className="fa-brands fa-c c-icon"></i>
+          <p>C</p>
         </div>
         <div className="skill-card python">
           <i className="fa-brands fa-python python-icon"></i>
