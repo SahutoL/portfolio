@@ -21,6 +21,6 @@ export const projectData = [
       description:
         'This is the ranking API for "syosetu.org".',
       gitHubLink: 'https://github.com/SahutoL/hameln-api',
-      siteUrl: 'https://hameln-api.stremlit.app/'
+      siteUrl: 'https://hameln-api.streamlit.app/'
     },
   ];
