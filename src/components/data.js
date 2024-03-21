@@ -23,4 +23,12 @@ export const projectData = [
       gitHubLink: 'https://github.com/SahutoL/hameln-api',
       siteUrl: 'https://hameln-api.streamlit.app/'
     },
+    {
+      id: 4,
+      title: 'Todo List PWA',
+      description:
+        'Todo App conpatible with PWA.',
+      gitHubLink: 'https://github.com/SahutoL/rt-todo',
+      siteUrl: 'https://sahutol.github.io/rt-todo/'
+    },
   ];
