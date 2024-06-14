@@ -37,7 +37,7 @@ export const projectData = [
       description:
         'This API allows you to scrape app information from the Apple App Store by providing a URL. The API returns a list of apps developed by the specified developer along with their titles and links.',
       gitHubLink: 'https://github.com/SahutoL/app-store-api',
-      siteUrl: 'https://app-store-api-2x05.onrender.com'
+      siteUrl: 'https://app-store-api-2x05.onrender.com/docs'
     },
     {
       id: 6,
