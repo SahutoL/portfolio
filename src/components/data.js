@@ -31,6 +31,7 @@ export const projectData = [
       gitHubLink: 'https://github.com/SahutoL/rt-todo',
       siteUrl: 'https://sahutol.github.io/rt-todo/'
     },
+    /*
     {
       id: 5,
       title: 'App Store API',
@@ -39,6 +40,7 @@ export const projectData = [
       gitHubLink: 'https://github.com/SahutoL/app-store-api',
       siteUrl: 'https://app-store-api-2x05.onrender.com/docs'
     },
+    */
     {
       id: 6,
       title: 'Audio upload app',
