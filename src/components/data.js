@@ -25,6 +25,14 @@ export const projectData = [
     },
     {
       id: 4,
+      title: 'Hameln Reading Data API',
+      description:
+        'This is the API for getting the reading data from "syosetu.org".',
+      gitHubLink: 'https://github.com/SahutoL/hameln-reading-data',
+      siteUrl: 'https://hameln-reading-data.onrender.com/docs'
+    },
+    {
+      id: 5,
       title: 'Todo List PWA',
       description:
         'Todo App conpatible with PWA.',
@@ -33,7 +41,7 @@ export const projectData = [
     },
     /*
     {
-      id: 5,
+      id: 6,
       title: 'App Store API',
       description:
         'This API allows you to scrape app information from the Apple App Store by providing a URL. The API returns a list of apps developed by the specified developer along with their titles and links.',
@@ -42,7 +50,7 @@ export const projectData = [
     },
     */
     {
-      id: 6,
+      id: 7,
       title: 'Audio upload app',
       description:
         'You can upload mp3 files on this site.',
