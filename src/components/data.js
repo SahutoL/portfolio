@@ -57,4 +57,12 @@ export const projectData = [
       gitHubLink: 'https://github.com/SahutoL/secure-audio-app',
       siteUrl: 'https://secure-audio-app.vercel.app/'
     },
+    {
+        id: 8,
+        title: 'PDF to Text',
+        description:
+          'Extracts text from an uploaded vertical PDF file and outputs it as a TXT file.',
+        gitHubLink: 'https://github.com/SahutoL/vtoh',
+        siteUrl: 'https://pdf-to-txt-49ny.onrender.com'
+    },
   ];
