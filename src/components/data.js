@@ -11,7 +11,7 @@ export const projectData = [
       id: 2,
       title: 'Hameln API for BackEnd',
       description:
-        'This is the ranking API for "syosetu.org".',
+        'This is the ranking API of "syosetu.org".',
       gitHubLink: 'https://github.com/SahutoL/hameln-api',
       siteUrl: 'https://hameln-api.onrender.com/docs/'
     },
@@ -19,7 +19,7 @@ export const projectData = [
       id: 3,
       title: 'Hameln API FrontEnd',
       description:
-        'This is the ranking API for "syosetu.org".',
+        'This is the ranking API of "syosetu.org".',
       gitHubLink: 'https://github.com/SahutoL/hameln-api',
       siteUrl: 'https://hameln-api.streamlit.app/'
     },
@@ -64,5 +64,13 @@ export const projectData = [
           'Extracts text from an uploaded vertical PDF file and outputs it as a TXT file.',
         gitHubLink: 'https://github.com/SahutoL/vtoh',
         siteUrl: 'https://pdf-to-txt-49ny.onrender.com'
+    },
+    {
+        id: 8,
+        title: 'Edit novel info at Hameln',
+        description:
+          'Tool to edit novel information registered as a favorite at "syosetu.org".',
+        gitHubLink: 'https://github.com/SahutoL/edit_novel_info',
+        siteUrl: 'https://github.com/SahutoL/edit_novel_info'
     },
   ];
