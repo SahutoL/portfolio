@@ -66,11 +66,19 @@ export const projectData = [
         siteUrl: 'https://pdf-to-txt-49ny.onrender.com'
     },
     {
-        id: 8,
+        id: 9,
         title: 'Edit novel info at Hameln',
         description:
           'Tool to edit novel information registered as a favorite at "syosetu.org".',
         gitHubLink: 'https://github.com/SahutoL/edit_novel_info',
         siteUrl: 'https://github.com/SahutoL/edit_novel_info'
+    },
+    {
+        id: 9,
+        title: 'Flask app for editing novel info at Hameln',
+        description:
+          'Tool to edit novel information registered as a favorite at "syosetu.org".',
+        gitHubLink: 'https://github.com/SahutoL/flask-edit-hameln-novel',
+        siteUrl: 'https://github.com/SahutoL/flask-edit-hameln-novel'
     },
   ];
