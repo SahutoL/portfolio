@@ -81,4 +81,12 @@ export const projectData = [
         gitHubLink: 'https://github.com/SahutoL/flask-edit-hameln-novel',
         siteUrl: 'https://github.com/SahutoL/flask-edit-hameln-novel'
     },
+    {
+        id: 10,
+        title: 'Flask app for converting Hameln novel to TXT file',
+        description:
+          'Tool to convert Hameln novel to text format file.',
+        gitHubLink: 'https://github.com/SahutoL/flask-novel-to-txt',
+        siteUrl: 'https://flask-novel-to-txt.onrender.com/'
+    },
   ];
