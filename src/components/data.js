@@ -83,10 +83,10 @@ export const projectData = [
     },
     {
         id: 10,
-        title: 'Flask app for converting Hameln novel into a text file',
+        title: 'PWA app for converting Hameln novel into a text file',
         description:
           'Tool to convert Hameln novel into a text file.',
         gitHubLink: 'https://github.com/SahutoL/flask-novel-to-txt',
-        siteUrl: 'https://flask-novel-to-txt.onrender.com/'
+        siteUrl: 'https://hameln-novel-to-txt.onrender.com/'
     },
   ];
